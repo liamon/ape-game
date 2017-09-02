@@ -1,6 +1,6 @@
 # ape-game
 This was an assignment in our Next Generation Technology 1 module in First Year.
-We were given the HTML and CSS and had to write the JavaScript to get the simple game to work
+We were given the HTML and CSS and had to write the JavaScript to get the simple game to work.
 
 The original instructions were the following:
 >Create a simple game, as follows. You are given a web page fragment with a HTML table with three rows and three columns. At any time, all cells of the table are empty except one cell which contains an image. 
